@@ -1,0 +1,23 @@
+
+a:hover {
+		text-transform:capitalize;
+		font-weight:bold;
+		color: white;
+		background-color:none;
+		text-decoration:none;
+	}
+a:link {
+		color: blue;
+		text-decoration:none;
+	}
+
+a:visited {
+		color: purple;
+		text-decoration:none;
+	}
+
+a:active {
+		background-color: none;
+		text-decoration:none;
+	}
+
